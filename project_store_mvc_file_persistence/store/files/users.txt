@@ -1,0 +1,9 @@
+1;user1;pass1;admin;name1;surname1
+2;user2;pass2;admin;name2;surname2
+3;user3;pass3;admin;name3;surname3
+4;user4;pass4;staff;name4;surname4
+5;user5;pass5;user;name5;surname5
+6;user6;pass6;staff;name6;surname6
+7;user7;pass7;staff;name8;surname9
+8;user8;pass8;staff;name8;surname8
+9;user9;pass9;admin;name9;surname9
